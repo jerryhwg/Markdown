@@ -48,3 +48,14 @@ This `rm` command is used to delete files in Bash.
 ***
 
 One of the most popular search engine is [Google](http://google.com "google search engine").
+
+Bing is also a pouplar search engine [Bing][msb]
+
+[msb]:http://bing.com "Bing search engine"
+
+<http://google.com>
+
+```bash
+#!/bin/bash
+print "Hello World"
+```
